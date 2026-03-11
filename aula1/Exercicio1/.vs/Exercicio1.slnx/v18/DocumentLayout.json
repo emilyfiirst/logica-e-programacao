@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\emili\\logica_e_programacao\\aula1\\Exercicio1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{71B39092-F051-4B79-A4A3-3FF5F02527B2}|Exercicio1.csproj|c:\\users\\emili\\logica_e_programacao\\aula1\\exercicio1\\exercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71B39092-F051-4B79-A4A3-3FF5F02527B2}|Exercicio1.csproj|solutionrelative:exercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D14B1CC9-837C-4B8A-FDF2-1EFB7A4F1026}|Exercicio1.csproj|c:\\users\\emili\\logica_e_programacao\\aula1\\exercicio1\\exercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14B1CC9-837C-4B8A-FDF2-1EFB7A4F1026}|Exercicio1.csproj|solutionrelative:exercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14B1CC9-837C-4B8A-FDF2-1EFB7A4F1026}|Exercicio1.csproj|c:\\users\\emili\\logica_e_programacao\\aula1\\exercicio1\\exercicio1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D14B1CC9-837C-4B8A-FDF2-1EFB7A4F1026}|Exercicio1.csproj|solutionrelative:exercicio1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exercicio1",
+              "DocumentMoniker": "C:\\Users\\emili\\logica_e_programacao\\aula1\\Exercicio1\\Exercicio1.csproj",
+              "RelativeDocumentMoniker": "Exercicio1.csproj",
+              "ToolTip": "C:\\Users\\emili\\logica_e_programacao\\aula1\\Exercicio1\\Exercicio1.csproj",
+              "RelativeToolTip": "Exercicio1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-11T18:14:01.687Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,14 +41,10 @@
               "RelativeDocumentMoniker": "Exercicio1.cs",
               "ToolTip": "C:\\Users\\emili\\logica_e_programacao\\aula1\\Exercicio1\\Exercicio1.cs",
               "RelativeToolTip": "Exercicio1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-11T13:11:16.183Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
